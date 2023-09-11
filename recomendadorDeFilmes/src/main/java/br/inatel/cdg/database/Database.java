@@ -9,7 +9,7 @@ public abstract class Database {
     PreparedStatement pst;
 
     static final String user = "root";
-    static final String password = "Batata16082012#";
+    static final String password = "******";
     static final String database = "bancopoo";
 
     static final String url = "jdbc:mysql://localhost:3306/" + database + "?useTimezone=true&serverTimezone=UTC&useSSL=false";
